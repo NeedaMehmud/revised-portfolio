@@ -5,7 +5,7 @@
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
   --bs-red: #dc3545;
-  --bs-orange: salmon;
+  --bs-orange: #fd7e14;
   --bs-yellow: #ffc800;
   --bs-green: #198754;
   --bs-teal: #20c997;
@@ -11324,7 +11324,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/img1.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
